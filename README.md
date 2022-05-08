@@ -15,5 +15,5 @@
 * 2020 여름 프로젝트    [Please Don't Let Me Alone](https://github.com/2020SummerTeam/Plz-Don-t-Let-Me-Alone) 2019.06 ~ 2021.01 / Unity,2D,Android,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExpMake20201.PDLMA)
 * 2020 겨울 프로젝트    [BodyPlant](https://github.com/2020-2-BodyPlant-Team/BodyPlant) 2020.12 ~ 2021.09 / Unity,2D,Android,방치형게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.BodyPlant)
 * 2021 1학기 프로젝트   [DeadOrAlive](https://github.com/2021-1-Semster-ExP-Make-Project-Team6/DeadOrAliveRepasitory) 2021.05 ~ 2021.07 / Unity,2D,Android,캐주얼게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.DeadorAlive)
-* 2021 2학기 프로젝트   [HomePhobia](https://github.com/Jeong-Sanghun/DollHouse) 2021.06 ~ 2021.08 / Unity,2D,Android,방탈출게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.Homephobia)
+* 2021 2학기 프로젝트   [HomePhobia](https://github.com/Jeong-Sanghun/DollHouse) 2021.10 ~ 2021.12 / Unity,2D,Android,방탈출게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.Homephobia)
 * 2021 2학기 게임잼    [디버그 더 버그](https://github.com/Jeong-Sanghun/2021GameJam) 2021.10.17 ~ 2021.10.18 / Unity,2D,Android,캐주얼게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPGameJam4Team.DebugTheBug)
