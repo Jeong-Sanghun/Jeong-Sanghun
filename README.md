@@ -10,7 +10,7 @@
 # 개발 완료 게임
 * 2018 1학기 프로젝트 **한 여름밤의 꿈**[Github](https://github.com/Jeong-Sanghun/ExPLegacyProject) 2018.03 ~ 2018.05 / Unity,2D,Android,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.Summer.Dream)
 * 2018 여름 프로젝트    **HarmonyRunner**[Github](https://github.com/Jeong-Sanghun/ExPLegacyProject) 2018.06 ~ 2019.05 / Unity,2D,Windows,리듬게임 / **미출시**
-* 2019 홍익대 축제 프로젝트    HongikFighters[Github](https://github.com/Jeong-Sanghun/ExPLegacyProject) 2019.03 ~ 2019.05/ Unity,2D,Windows,격투게임 / **미출시**
+* 2019 홍익대 축제 프로젝트    **HongikFighters**[Github](https://github.com/Jeong-Sanghun/ExPLegacyProject) 2019.03 ~ 2019.05/ Unity,2D,Windows,격투게임 / **미출시**
 * 2020 1학기 프로젝트   **PlanetPioneer**[Github](https://github.com/ExPMakeWadaha/PlanetPioneerProject) 2020.04 ~ 2020.06 / Unity,3D,Android,방치형게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExP.PlanetPioneer)
 * 2020 여름 프로젝트    **Please Don't Let Me Alone**[Github](https://github.com/2020SummerTeam/Plz-Don-t-Let-Me-Alone) 2020.06 ~ 2021.01 / Unity,2D,Android,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExpMake20201.PDLMA)
 * 2020 겨울 프로젝트    **BodyPlant**[Github](https://github.com/2020-2-BodyPlant-Team/BodyPlant) 2020.12 ~ 2021.09 / Unity,2D,Android,방치형게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.BodyPlant)
