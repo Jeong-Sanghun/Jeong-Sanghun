@@ -2,6 +2,7 @@
 * 홍익대학교 17학번 컴퓨터공학과 재학
 * 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2017.03 ~
 * Unity, C# 개발
+* [개인 유튜브](https://www.youtube.com/channel/UCY67mZ5UdFu3aGedO65u1XA)
 
 # 개발 중인 게임
 * ExP Make팀 장기프로젝트  **마녀약국** [Github](https://github.com/Jeong-Sanghun/WitchPharmacy) 2021.02~ / Unity,2D,Windows,IOS,Android,비주얼노벨
