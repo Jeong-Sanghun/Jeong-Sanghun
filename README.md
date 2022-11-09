@@ -7,7 +7,7 @@
 * [개인 유튜브](https://www.youtube.com/channel/UCY67mZ5UdFu3aGedO65u1XA)
 
 # 개발 중인 게임
-* ExP Make팀 장기프로젝트  **마녀약국** [Github](https://github.com/Jeong-Sanghun/SecuredProjects) 2021.02~ / Unity,2D,Windows,IOS,Android,비주얼노벨 / [프로토타입 영상](https://youtu.be/kmRkHworuqY) / [개편 영상](https://youtu.be/M3QtoRzKKFU)
+
 
 
 # 개발 완료 게임
@@ -22,3 +22,4 @@
 * 2021 2학기 프로젝트   **HomePhobia** [Github](https://github.com/Jeong-Sanghun/DollHouse) 2021.10 ~ 2021.12 / Unity,2D,Android,방탈출게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.Homephobia) / [플레이 영상](https://youtu.be/5lSbcsd4MqI)
 * 2021 2학기 게임잼    **디버그 더 버그** [Github](https://github.com/Jeong-Sanghun/2021GameJam) 2021.10.17 ~ 2021.10.18 / Unity,2D,Android,캐주얼게임 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPGameJam4Team.DebugTheBug) / [플레이 영상](https://youtu.be/V3oqaXsJTPQ)
 * 대학생 개발팀 외주  **3Less** [Github](https://github.com/Jeong-Sanghun/SecuredProjects) 2021.12 ~ 2022.05  / Unity,2D,Android,비주얼노벨/ [스토어 링크](https://play.google.com/store/apps/details?id=com.Company3Less.ThreeLess) / [플레이 영상](https://youtu.be/UE8IELhH-N4)
+* ExP Make팀 장기프로젝트  **마녀약국** [Github](https://github.com/Jeong-Sanghun/SecuredProjects) 2021.02~ 2022.9 / Unity,2D,Windows,IOS,Android,비주얼노벨 / [프로토타입 영상](https://youtu.be/kmRkHworuqY) / [개편 영상](https://youtu.be/M3QtoRzKKFU)
