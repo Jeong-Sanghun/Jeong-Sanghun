@@ -2,7 +2,7 @@
 * 홍익대학교 17학번 컴퓨터공학과 재학
 * 홍익대학교 게임개발 동아리 ExP Make팀 프로그래머 2017.03 ~ 2022.07
 * PuzzleOneStudio 대학인턴 프로그래머 2022.07 ~ 2022.09
-* NexonKorea 클라이언트 프로그래머 2022.09 ~
+* 클라이언트 프로그래머 재직중 2022.09 ~
 * Unity, C# 개발
 * [개인 유튜브](https://www.youtube.com/channel/UCY67mZ5UdFu3aGedO65u1XA)
 
