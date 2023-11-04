@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Wadaha)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wadaha)](https://github.com/anuraghazra/github-readme-stats)
+
 # 개발 완료 게임
 * 2018 1학기 프로젝트 **한 여름밤의 꿈** [Github](https://github.com/Jeong-Sanghun/ExPLegacyProject) 2018.03 ~ 2018.05 / Unity,2D,Android,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.Summer.Dream)
 * 2018 여름 프로젝트    **HarmonyRunner** [Github](https://github.com/Jeong-Sanghun/ExPLegacyProject) 2018.06 ~ 2019.05 / Unity,2D,Windows,리듬게임 / **미출시** / [플레이 영상](https://youtu.be/Oji1yIA7okg)
