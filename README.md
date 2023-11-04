@@ -6,9 +6,7 @@
 * Unity, C# 개발
 * [개인 유튜브](https://www.youtube.com/channel/UCY67mZ5UdFu3aGedO65u1XA)
 
-# 개발 중인 게임
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wadaha)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 개발 완료 게임
 * 2018 1학기 프로젝트 **한 여름밤의 꿈** [Github](https://github.com/Jeong-Sanghun/ExPLegacyProject) 2018.03 ~ 2018.05 / Unity,2D,Android,플랫포머 / [스토어 링크](https://play.google.com/store/apps/details?id=com.Summer.Dream)
